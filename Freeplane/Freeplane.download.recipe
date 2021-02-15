@@ -12,8 +12,6 @@
 			<string>Freeplane</string>
 			<key>MAJOR_OS_VERSION</key>
 			<string></string>
-			<key>SEARCH_PATTERN</key>
-			<string>href="(.*/projects/freeplane/files/freeplane%20stable/freeplane_app*\.dmg/download)"</string>
 		</dict>
 		<key>MinimumVersion</key>
 		<string>1.0.0</string>
