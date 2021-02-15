@@ -8,8 +8,6 @@
 		<string>com.github.fishd72.download.Freeplane</string>
 		<key>Input</key>
 		<dict>
-			<key>DOWNLOAD_URL</key>
-			<string>https://sourceforge.net/projects/freeplane/files/</string>
 			<key>NAME</key>
 			<string>Freeplane</string>
 			<key>MAJOR_OS_VERSION</key>
